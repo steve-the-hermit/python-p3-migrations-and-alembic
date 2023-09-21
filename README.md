@@ -5,7 +5,7 @@
 - Use an external library to simplify tasks from earlier ORM lessons.
 - Manage database tables and schemas without ever writing SQL through Alembic.
 - Use SQLAlchemy to create, read, update and delete records in a SQL database.
-
+    
 ***
 
 ## Key Vocab
